@@ -5,7 +5,7 @@ A portfolio of my contributions to open-source projects.
 ## OpenTracks OSM Plugin - Map Legend Feature
 
 **Project**: [OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - Android app for GPS tracking  
-**Issue**: [#67 - Implement Map Legend](https://github.com/OpenTracksApp/OpenTracks/issues/67)  
+**Issue**: [#67 - Implement Map Legend](https://github.com/rilling/OSMDashboardConcordia/issues/67)  
 **Role**: Team Lead & Core Developer  
 **Date**: 2023
 
